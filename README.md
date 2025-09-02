@@ -175,7 +175,7 @@ Exclusivamente mulher. Pode se transformar em uma arma que possa ser segurada po
     <h2>Etinias</h2>
     <p>Luzius: Luzianos 
 </p>
-<img src="imagens/foto.jpg" alt="Minha foto">
+<img src="foto.jpg" alt="Minha foto">
 
 
 
