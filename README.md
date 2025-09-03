@@ -51,9 +51,9 @@ button:hover { background:#e6b800;}
 <body>
   <nav>
     <a onclick="mostrarPagina('ficha')">Ficha</a>
-    <a onclick="mostrarPagina('especie')">Espécie</a>
+    <a onclick="mostrarPagina('especies')">Espécie</a>
     <a onclick="mostrarPagina('etinias')">Etinias</a>
-    <a onclick="mostrarPagina('Classes')">Humano</a>
+    <a onclick="mostrarPagina('classes')">Classes</a>
   </nav>
 
   <!-- Página principal -->
