@@ -61,7 +61,7 @@ button:hover { background:#e6b800;}
   </div>
 
   <!-- Páginas extras -->
-  <div id="especie" class="pagina">
+  <div id="especies" class="pagina">
     <h2>Espécies</h2>
     <p>
 ·       Humano: <br>
